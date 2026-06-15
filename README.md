@@ -42,6 +42,32 @@ llm-explainability-mapping/
 # Primer experimento
 - Generar embeddings de abstrcts usando Sentence-BERT y visualizar clusters mediante UMAP.
 
+# Segundo experimento
+ACL Anthology
+↓
+DataFrame
+↓
+Filtro interpretability/probing
+↓
+Embeddings
+↓
+UMAP
+↓
+Clusters
+↓
+Mapa conceptual del campo
+
+La estructura que encontré en acl-anthology es:
+collection
+│
+└── volume
+     │
+     ├── meta
+     │
+     ├── paper
+     ├── paper
+     ├── paper
+     └── ...
 ## Corpus
 ### Test
 Construiré un corpus con los archivos de meta análisis previos:

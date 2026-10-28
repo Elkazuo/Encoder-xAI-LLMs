@@ -11,3 +11,6 @@ venv/
 data/embeddings/
 
 .DS_Store
+
+# Corpus clonado (841MB, se re-descarga, no se versiona)
+acl-anthology/
